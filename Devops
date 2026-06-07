@@ -1,1 +1,47 @@
+cat -----> opens the conents in the file
+command: cat file_name ---> opens the contents in the file, followed by file name which we want to open
+
+
+
+Difference between cat and vim
+
+cat -> gives read access, we can only read the content in the file
+vim -> gives read as we as write access, where we can read and edit the conents in the file
+
+ls--> lists all the files
+command: ls  
+
+cd ----> change Director 
+comamand: cd directory_name  ---> This will make us to go or move into that direcory 
+NOTE: Directory is like a FOLDER in the Windows
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TO CLOSE/ EXIT FROM THE VIM 
+PRESS ESC THEN THE CURSOR COMES DOWN AND PRESS :qw! THIS WILL MAKE YOU WXIT FROM VIM
 
